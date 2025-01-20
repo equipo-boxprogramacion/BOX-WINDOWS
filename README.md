@@ -4,7 +4,8 @@ Aquí tienes un ejemplo de un `README.md` para Windows, adaptado para un instala
 ```markdown
 # BOX V1.0
 
-BOX V1.0 es una herramienta interactiva diseñada para aprender y ejecutar operaciones básicas de programación. Esta versión está optimizada para Windows y viene con un instalador sencillo para facilitar su uso.
+BOX V1.0 es una herramienta interactiva diseñada para aprender y ejecutar operaciones básicas de programación.
+Esta versión está optimizada para Windows y viene con un instalador sencillo para facilitar su uso.
 
 ---
 
